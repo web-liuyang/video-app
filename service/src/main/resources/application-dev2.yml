@@ -1,0 +1,10 @@
+# home
+
+server:
+  port: 8080
+
+os:
+  domainName: webliuyang.com
+  host: 124.221.128.195
+  port: ${server.port}
+

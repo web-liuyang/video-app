@@ -1,0 +1,10 @@
+# company
+
+server:
+  port: 8080
+
+os:
+  domainName: 192.168.101.12
+  host: 192.168.101.12
+  port: ${server.port}
+

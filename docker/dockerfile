@@ -1,0 +1,7 @@
+FROM java:8
+
+LABEL version=1.0.0 maintainer=LiuYang email=984584014@qq.com
+
+ADD video-app-service-1.0-SNAPSHOT.jar /video-app-service/app.jar
+
+WORKDIR /video-app-service

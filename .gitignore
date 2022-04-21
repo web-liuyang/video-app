@@ -1,0 +1,10 @@
+.hbuilderx
+.DS_Store
+node_modules
+unpackage
+video.keystore
+yarn-error.log
+
+.idea
+logs
+target
